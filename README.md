@@ -1,6 +1,6 @@
 # Last-Minute-Collision-Detected
 
-This repo is for the NFL Helmet collision detection competition (https://www.kaggle.com/c/nfl-impact-detection/overview). This is our first Kaggle competition as a team, and although we only scored ~9% accuracy, we are VERY VERY proud of how we did in under two weeks of work. 
+This repo is for the NFL Helmet collision detection competition (https://www.kaggle.com/c/nfl-impact-detection/overview). This is our first Kaggle competition as a team, and although we only scored ~9% accuracy (top 63% of the competition), we are VERY VERY proud of how we did in under two weeks of work. 
 
 On to the next one :)
 
